@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #header .profile .social-links a:hover {
-  background: #1e8993;
+  background: #fabf18;
   color: #fff;
   text-decoration: none;
 }
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .nav-menu a:hover i, .nav-menu .active i, .nav-menu .active:focus i, .nav-menu li:hover > a i {
-  color: #1e8993;
+  color: #fabf18;
 }
 
 /* Mobile Navigation */
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #1e8993;
+  border-bottom: 3px solid #fabf18;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -295,7 +295,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #1e8993;
 }
 .section-title h2::after {
   content: "";
@@ -303,7 +303,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #1e8993;
+  background: #fabf18;
   bottom: 0;
   left: 0;
 }
@@ -416,7 +416,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #1e8993;
+  background-color: #fabf18;
 }
  
 /*--------------------------------------------------------------
@@ -470,7 +470,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1e8993;
+  border: 2px solid #fabf18;
 }
 
 /*--------------------------------------------------------------
