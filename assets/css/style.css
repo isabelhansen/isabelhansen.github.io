@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(5, 13, 24, 0.2);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -414,7 +414,7 @@ section {
 }
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: 12px;
   transition: 0.9s;
   background-color: #fabf18;
 }
